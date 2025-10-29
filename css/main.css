@@ -29,6 +29,7 @@ h1 {
   grid-row: 2;
 }
 .item-4 {
+  align-self: self-end;
   grid-column: 3;
   grid-row: 2;
 }
